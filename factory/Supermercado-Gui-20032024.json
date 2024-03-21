@@ -1,0 +1,9 @@
+{
+	"name": "Supermercado-Gui-20032024",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "78c3fa08-fd70-48e1-994e-38eee557d792",
+		"tenantId": "d193e68c-e53f-4610-a66d-56ff300fec7a"
+	}
+}
